@@ -54,3 +54,4 @@ $ python3 main.py
 
 - AsmSafone [Dev]
 - MarshalX [For tgcalls]
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/PATRICIAGANG/RadioPlayer&envs=API_HASH,API_ID,SESSION,ADMIN,CHAT_NAME)
